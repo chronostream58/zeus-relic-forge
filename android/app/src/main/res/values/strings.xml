@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zeus Relic Forge</string>
+
+    <string name="brand_title">ZEUS RELIC FORGE</string>
+    <string name="splash_subtitle">RESTORE THE STORM MACHINE</string>
+    <string name="splash_loading">LOADING...</string>
+
+    <string name="menu_tagline">THREE SANCTUARIES. ONE LIVING CIRCUIT.</string>
+    <string name="menu_hint">TAP RINGS · ALIGN THE CHANNEL · SURGE</string>
+    <string name="menu_empty">NO GATE HAS BEEN POWERED YET</string>
+    <string name="menu_disclaimer">18+ MYTHIC FANTASY · NO REAL MONEY · OFFLINE</string>
+
+    <string name="cta_play">PLAY</string>
+    <string name="cta_levels">LEVELS</string>
+    <string name="cta_workshop">WORKSHOP</string>
+    <string name="cta_lore">LORE</string>
+    <string name="cta_menu">MENU</string>
+    <string name="cta_surge">SURGE</string>
+    <string name="cta_hint">HINT</string>
+    <string name="cta_forge_again">FORGE AGAIN</string>
+    <string name="cta_next_gate">NEXT GATE</string>
+    <string name="cta_resume">RESUME</string>
+    <string name="cta_restart">RESTART</string>
+    <string name="cta_forge">FORGE</string>
+    <string name="cta_cancel">CANCEL</string>
+    <string name="cta_challenge">CHALLENGE</string>
+
+    <string name="stat_gates">GATES</string>
+    <string name="stat_fragments">FRAGMENTS</string>
+    <string name="stat_crystals">CRYSTALS</string>
+    <string name="stat_moves">MOVES</string>
+    <string name="stat_par">PAR</string>
+    <string name="stat_sigils">SIGILS</string>
+    <string name="gates_progress">%1$d / %2$d GATES POWERED</string>
+    <string name="value_fraction">%1$d / %2$d</string>
+    <string name="value_plain">%1$d</string>
+    <string name="value_gain">+%1$d</string>
+
+    <string name="chapter_one">I · MARBLE ANTECHAMBER</string>
+    <string name="chapter_two">II · BRONZE CONDUITS</string>
+    <string name="chapter_three">III · STORM APEX</string>
+    <string name="gate_label">GATE %1$d-%2$d</string>
+    <string name="gate_title">%1$s · GATE %2$d-%3$d</string>
+    <string name="level_descriptor">%1$d RINGS · %2$d SECTORS · CHARGE %3$d</string>
+    <string name="level_best">BEST %1$d MOVES</string>
+    <string name="level_best_none">NOT POWERED YET</string>
+    <string name="level_sealed">SEALED · POWER GATE %1$d-%2$d FIRST</string>
+    <string name="levels_title">SANCTUARIES</string>
+    <string name="chapter_sigils">SIGILS %1$d / %2$d</string>
+
+    <string name="game_charge">CHARGE %1$d / %2$d</string>
+    <string name="game_control_hint">TAP A RING TO ROTATE ONE SECTOR</string>
+    <string name="game_challenge_route">CHALLENGE ROUTE · PAR %1$d</string>
+    <string name="game_anchored">ANCHORED · RING IS CLAMPED</string>
+    <string name="game_unstable">UNSTABLE CIRCUIT · BACKLASH</string>
+    <string name="game_locked_ring">RING CLAMPED · CHANNEL EXTENDS</string>
+    <string name="game_resonance">RESONANCE x%1$d · +%2$d CHARGE · +%3$d FRAGMENTS</string>
+    <string name="game_no_crystals">NO CRYSTALS · POWER 3 GATES TO FORGE ONE</string>
+    <string name="game_armed">CIRCUIT COMPLETE · RELEASE THE SURGE</string>
+    <string name="game_preparing">PREPARING THE SANCTUARY</string>
+
+    <string name="pause_title">MACHINE HELD</string>
+    <string name="pause_body">The rings hold their charge while you decide.</string>
+
+    <string name="result_win_title">GATE POWERED</string>
+    <string name="result_win_subtitle">THE CIRCUIT HOLDS</string>
+    <string name="result_loss_title">CIRCUIT COLLAPSED</string>
+    <string name="result_loss_subtitle">THE STORM CHARGE RAN DRY</string>
+    <string name="result_sigil">SIGIL EARNED</string>
+    <string name="result_sigil_value">GOLD</string>
+    <string name="result_banner">RESONANCE x%1$d · +%2$d CHARGE · +%3$d FRAGMENTS</string>
+
+    <string name="workshop_title">WORKSHOP</string>
+    <string name="workshop_balance">%1$d FRAGMENTS</string>
+    <string name="workshop_mastered">MASTERED</string>
+    <string name="workshop_need">NEEDS %1$d FRAGMENTS · POWER MORE GATES</string>
+    <string name="workshop_cost">COST %1$d</string>
+    <string name="workshop_confirm_body">Fuse %1$d relic fragments into this tool. The effect applies from your next gate.</string>
+    <string name="workshop_forged">TOOL FUSED · EFFECT IS LIVE</string>
+
+    <string name="tool_rotation_dial">ROTATION DIAL</string>
+    <string name="tool_rotation_dial_0">Bronze teeth worn smooth. No extra storm charge.</string>
+    <string name="tool_rotation_dial_1">Every sanctuary starts with 2 extra storm charge.</string>
+    <string name="tool_rotation_dial_2">Every sanctuary starts with 4 extra storm charge.</string>
+    <string name="tool_rotation_dial_3">Every sanctuary starts with 6 extra storm charge.</string>
+    <string name="tool_resonance_caliper">RESONANCE CALIPER</string>
+    <string name="tool_resonance_caliper_0">Unground lenses. The channels stay unreadable.</string>
+    <string name="tool_resonance_caliper_1">Ghosts the next position of the ring you touch.</string>
+    <string name="tool_resonance_caliper_2">Ghosts the next position of every unlocked ring.</string>
+    <string name="tool_resonance_caliper_3">Marks every ring that already sits on its target.</string>
+    <string name="tool_crystal_lathe">CRYSTAL LATHE</string>
+    <string name="tool_crystal_lathe_0">Cold stone bed. Crystals cap at 3.</string>
+    <string name="tool_crystal_lathe_1">Hint crystals cap at 4.</string>
+    <string name="tool_crystal_lathe_2">Hint crystals cap at 5.</string>
+    <string name="tool_crystal_lathe_3">A crystal forms every 2 powered gates instead of 3.</string>
+
+    <string name="lore_title">ARTIFACT LORE</string>
+    <string name="lore_progress">%1$d / %2$d REVEALED</string>
+    <string name="lore_sealed">SEALED · POWER GATE %1$d-%2$d TO REVEAL</string>
+    <string name="lore_bonus_sealed">SEALED · EARN 3 SIGILS IN THIS SANCTUARY</string>
+
+    <string name="lore_title_1">THE ANTECHAMBER DIAL</string>
+    <string name="lore_body_1">The first ring was cut from a single slab of quarry marble and set on a bronze bed that still turns without complaint. Priests called it the patient wheel, because it waits centuries between hands.</string>
+    <string name="lore_title_2">SALT ON THE BRONZE</string>
+    <string name="lore_body_2">Sea air crept under the sanctuary doors for nine hundred winters. The green bloom on every clamp is not decay but armour, and the machine wears it the way an old soldier wears scars.</string>
+    <string name="lore_title_3">THE QUIET CORE</string>
+    <string name="lore_body_3">At the centre sits a sphere of fused storm glass that has never once gone dark. Hold a palm near it and the hair on your arm lifts, as if the thing remembers what it was built to carry.</string>
+    <string name="lore_title_4">THE FIRST SURGE</string>
+    <string name="lore_body_4">The builders discharged the machine only once in their lifetimes. Witnesses wrote that the light did not flash but poured, slow and heavy, like gold leaving a crucible.</string>
+    <string name="lore_title_5">THE CLAMP MAKERS</string>
+    <string name="lore_body_5">Each clamp carries the mark of the smith who forged it. Twelve marks repeat across the sanctuary, which means twelve people spent their working lives on a machine none of them would ever see fire.</string>
+    <string name="lore_title_6">CONDUITS OF THE SECOND HALL</string>
+    <string name="lore_body_6">Deeper rings were poured, not carved. Molten bronze was run into marble moulds so the channel and its shell cooled as one body, and nothing since has been able to prise them apart.</string>
+    <string name="lore_title_7">THE DEAD SECTORS</string>
+    <string name="lore_body_7">Some sectors were left blind on purpose. A machine that could be solved by brute turning was considered unworthy of the storm it was meant to hold.</string>
+    <string name="lore_title_8">STORM DEBT</string>
+    <string name="lore_body_8">Charge was never free. Every turn of a ring draws from a reservoir that the sanctuary refills on its own schedule, and the schedule has never been explained to anyone outside the order.</string>
+    <string name="lore_title_9">THE RESONANT PAIR</string>
+    <string name="lore_body_9">When two rings lock in the same breath the whole hall hums a low note. Old keepers insisted the machine was thanking them, and nobody has produced a better explanation.</string>
+    <string name="lore_title_10">THE LATHE ROOM</string>
+    <string name="lore_body_10">Hint crystals are grown, not found. Fragments of a powered gate are laid on a cold stone bed and left until the storm residue inside them finds a shape it likes.</string>
+    <string name="lore_title_11">APEX ASCENT</string>
+    <string name="lore_body_11">The upper sanctuary stands above the cloud line. Lightning strikes its outer shell forty times a season, and the shell has never needed a repair.</string>
+    <string name="lore_title_12">TWO GATES, ONE CIRCUIT</string>
+    <string name="lore_body_12">At the apex the channel must feed two gates from one core. The builders solved it by making the outer ring wider than any other, so the current splits exactly where it must.</string>
+    <string name="lore_title_13">THE OBSERVER MARKS</string>
+    <string name="lore_body_13">Thin scratches run along the apex rim at intervals no instrument explains. They match no calendar, no star, and no tide, and the order simply calls them the counting.</string>
+    <string name="lore_title_14">WHAT THE GATES OPEN ON</string>
+    <string name="lore_body_14">Every powered gate has opened onto the same thing: a corridor of still air, warm as a hand, with no end that anyone has walked to and returned from.</string>
+    <string name="lore_title_15">THE LAST KEEPER</string>
+    <string name="lore_body_15">The final entry in the sanctuary ledger is a single line in a steady hand. It reads that the machine is sound, that the charge is full, and that whoever comes next should take their time.</string>
+    <string name="lore_title_16">THE ANTECHAMBER SIGIL</string>
+    <string name="lore_body_16">Three clean runs through the first hall mark you as a reader of channels rather than a turner of stone. The order stamped that distinction into a gold sigil and nothing else.</string>
+    <string name="lore_title_17">THE CONDUIT SIGIL</string>
+    <string name="lore_body_17">Mastery of the bronze halls was measured in restraint. Three gates powered inside par meant the candidate had learned to spend charge the way a smith spends heat.</string>
+    <string name="lore_title_18">THE APEX SIGIL</string>
+    <string name="lore_body_18">No name survives of anyone who took three apex sigils. The ledger records only that the hall was found empty, the gates open, and every clamp seated.</string>
+
+    <string name="cd_logo">Zeus Relic Forge emblem</string>
+    <string name="cd_storm_core">Storm core orb</string>
+    <string name="cd_gate">Ancient gate arch</string>
+    <string name="cd_fragment">Relic fragment</string>
+    <string name="cd_crystal">Hint crystal</string>
+    <string name="cd_forge_tool">Bronze forge tool</string>
+    <string name="cd_pause">Pause the machine</string>
+    <string name="cd_home">Back to menu</string>
+
+    <string name="state_armed">Armed</string>
+    <string name="state_unstable">Unstable</string>
+    <string name="state_anchored">Anchored</string>
+    <string name="state_disarmed">Disarmed</string>
+    <string name="state_locked">Sealed</string>
+    <string name="state_unaffordable">Not enough fragments</string>
+</resources>
